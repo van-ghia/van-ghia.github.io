@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: VanhGer
+title: VanGhia
 logo_img: "/assets/img/icons.png"
 profile_img: "/assets/img/lloyd.jpeg"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -28,12 +28,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 # Social Links
-email: vietanhpg2003@gmail.com
-github_username: VanhGer
-twitter_username: vanhger
+email: konchonhaem@gmail.com
+github_username: van-ghia
+twitter_username: twitter
 instagram_username: instagram
-linkedin_username: vanhger-pham-68676b223
-facebook_username: iamvanhg
+linkedin_username: linkedin
+facebook_username: 61556523481829
 
 # Build settings
 plugins:
@@ -50,9 +50,6 @@ collections:
   pages:
     output: true
     permalink: /:path.html
-
-disqus:
-  shortname: vanhger # Your discus shortname for comments
 
 defaults:
   -
