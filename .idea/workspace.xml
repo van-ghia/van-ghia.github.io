@@ -6,7 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="13062025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2024-07-24-private-distributed-storage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Cryptography/ZKP/2024-12-11-cache-quotients.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Cryptography/ZKP/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Cryptography/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_components.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_downloading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_eth.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_full.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_ipfs.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_uploading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/thumbnail/post_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unrelease/Cryptography/2024-09-27-fri.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unrelease/Cryptography/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +37,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="new_post" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,12 +59,12 @@
     <option name="currentCommit" value="1" />
     <option name="onto" value="8894dda9374bf55352a25b095a52cd9fe9561090" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:VanhGer/vanhger.github.io.git&quot;,
-    &quot;accountId&quot;: &quot;0c172fa0-09ed-48b3-a1b3-45fbbac78790&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/van-ghia/van-ghia.github.io.git",
+    "accountId": "0c172fa0-09ed-48b3-a1b3-45fbbac78790"
   }
-}</component>
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3v1dza3w" />
   </component>
@@ -69,26 +83,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vanhger/Work/vanhger/vanhger.github.io&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "remove-vanhger",
+    "last_opened_file_path": "/home/vanhger/Work/vanhger/van-ghia.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/fonts" />
@@ -160,6 +175,7 @@
       <workItem from="1749804499533" duration="1927000" />
       <workItem from="1749824341521" duration="3341000" />
       <workItem from="1749831414159" duration="83000" />
+      <workItem from="1750255390949" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />
@@ -463,7 +479,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
