@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: VanhGer
+title: vanghia
 logo_img: "/assets/img/icons.png"
 profile_img: "/assets/img/lloyd.jpeg"
 description: >- # this means to ignore newlines until "baseurl:"
@@ -50,9 +50,6 @@ collections:
   pages:
     output: true
     permalink: /:path.html
-
-disqus:
-  shortname: vanhger # Your discus shortname for comments
 
 defaults:
   -
