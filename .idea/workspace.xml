@@ -4,23 +4,33 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="13062025">
+    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/_pages/Blog/Story/2025-03-07-dua-tre-chua-bao-gio-lon.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2024-07-24-private-distributed-storage.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Cryptography/ZKP/2024-12-11-cache-quotients.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Cryptography/ZKP/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Cryptography/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_downloading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_eth.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_full.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_ipfs.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post24_uploading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/thumbnail/post_24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Tutorial/2023-02-28-cach-tao-blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Tutorial/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/La-Mancha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/background2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/disk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/example.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/lloyd.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post1_1.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post1_2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/post_img/post1_3.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unrelease/Cryptography/2024-09-27-fri.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unrelease/Cryptography/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="remove-vanhger" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,12 +69,12 @@
     <option name="currentCommit" value="1" />
     <option name="onto" value="8894dda9374bf55352a25b095a52cd9fe9561090" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/van-ghia/van-ghia.github.io.git",
-    "accountId": "0c172fa0-09ed-48b3-a1b3-45fbbac78790"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/van-ghia/van-ghia.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;0c172fa0-09ed-48b3-a1b3-45fbbac78790&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3v1dza3w" />
   </component>
@@ -92,8 +102,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "git-widget-placeholder": "remove-vanhger",
-    "last_opened_file_path": "/home/vanhger/Work/vanhger/van-ghia.github.io",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/vanhger/Work/vanhger/van-ghia.github.io/_pages/Blog/Story",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,11 +116,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages/Blog/Story" />
       <recent name="$PROJECT_DIR$/assets/fonts" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/thumbnail" />
       <recent name="$PROJECT_DIR$/_pages/Life" />
-      <recent name="$PROJECT_DIR$/_pages/Story" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_pages/Blog/Life" />
@@ -175,7 +185,9 @@
       <workItem from="1749804499533" duration="1927000" />
       <workItem from="1749824341521" duration="3341000" />
       <workItem from="1749831414159" duration="83000" />
-      <workItem from="1750255390949" duration="2759000" />
+      <workItem from="1750255390949" duration="5519000" />
+      <workItem from="1750289306254" duration="164000" />
+      <workItem from="1751339020202" duration="2192000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />

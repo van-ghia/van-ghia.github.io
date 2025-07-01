@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: VanGhia
+title: Reghnav
 logo_img: "/assets/img/icons.png"
-profile_img: "/assets/img/lloyd.jpeg"
+profile_img: "/assets/img/reghnav.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Hi there !!!
 # baseurl: "/" # the subpath of your site, e.g. /blog
@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 # Social Links
-email: konchonhaem@gmail.com
+email: vietanhpg2003@gmail.com
 github_username: van-ghia
 twitter_username: twitter
 instagram_username: instagram

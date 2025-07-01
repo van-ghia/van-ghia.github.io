@@ -9,7 +9,7 @@
 
 .sidebar-left {
   display:flex;
-  background-color:$color-beige;
+  //background-color:$color-navi-1;
 }
 
 .side-banner {
@@ -19,14 +19,14 @@
 
   button {
     position:absolute;
-    background-color:$color-beige;
+    //background-color:$color-beige;
     height:100%;
     aspect-ratio:1;
     top:0;
 
     svg { width:20px; }
 
-    &:hover { background-color:rgba(212, 201, 191, 0.7); }
+    &:hover { background-color: rgba(191, 210, 212, 0.7); }
   }
   #btn-nav { right:0; }
   #btn-search { right:38px; }
@@ -52,7 +52,7 @@
     border-radius:50%;
     border: 0.1rem solid black;
     padding: 0.1rem;
-    outline:4.5rem solid rgba(64, 64, 64, 0.1);
+    outline:4.5rem solid rgba(64, 64, 64, 0);
     outline-offset:-4.5rem;
     transition:.3s;
 

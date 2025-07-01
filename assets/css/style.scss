@@ -8,8 +8,8 @@ html, body {
 }
 
 body {
-  background: #dadad9;
-  //background: #c35356;
+  //background: #dadad9;
+  background: #D3D8E0;
 }
 
 //body {
@@ -24,7 +24,7 @@ body {
 }
 
 a { text-decoration:none; }
-a, span, p, h1, h2, h3, h4, i { color:#3A241A; }
+a, span, p, h1, h2, h3, h4, i { color:#363F4E; }
 a, span, p { font-family:'Lucida Sans', sans-serif; }
 h1, h2, h3, h4, mark {
   margin:0;
@@ -35,7 +35,7 @@ mark { background-color:transparent; }
 svg {
   width:16px;
   aspect-ratio:1.0;
-  fill:#3A241A;
+  fill:#363F4E;
   display:block;
   margin:auto;
 }

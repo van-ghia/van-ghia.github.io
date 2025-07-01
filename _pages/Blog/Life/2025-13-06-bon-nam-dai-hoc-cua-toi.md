@@ -11,7 +11,7 @@ Chủ đề: Cuộc sống Đại học.
 
 *Dưới đây là buổi phỏng vấn sinh viên Phạm Gia Việt Anh, trường ĐHCN - ĐHQGHN*
 
-**Q: Xin chào bạn, mình là [Văn Ghia](https://vanhger.github.io/Blog/Story/2025-23-05-dinh-vinh-quang-se-chang-co-gi.html), phóng viên tại tạp chí *Ký ức Lờ Mao*, rất vui vì bạn đã nhận lời mời tham dự buổi phỏng vấn ngắn ngày hôm nay. Trước tiên, bạn có thể giới thiệu đôi chút về bản thân mình cho độc giả được không?**
+**Q: Xin chào bạn, mình là [Văn Ghia](https://van-ghia.github.io/Blog/Story/2025-23-05-dinh-vinh-quang-se-chang-co-gi.html), phóng viên tại tạp chí *Ký ức Lờ Mao*, rất vui vì bạn đã nhận lời mời tham dự buổi phỏng vấn ngắn ngày hôm nay. Trước tiên, bạn có thể giới thiệu đôi chút về bản thân mình cho độc giả được không?**
 
 **A**: Xin chào anh Ghia, xin chào tất cả các bạn đọc, mình tên là Phạm Gia Việt Anh, hiện đang là sinh viên năm 4 (và sắp tốt nghiệp), thuộc trường Đại học Công Nghệ, ĐHQGHN. Mình rất vui vì được xuất hiện trong tạp chí ngày hôm nay.
 
