@@ -2,7 +2,7 @@
 date: 2025-07-08
 tags:
   - me
-thumbnail: /assets/img/thumbnail/post_38.jpg
+thumbnail: /assets/img/thumbnail/post_39.jpg
 title: Không thể sống thiếu ánh hào quang
 postnum: 39
 ---
