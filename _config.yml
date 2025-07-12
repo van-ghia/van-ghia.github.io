@@ -51,6 +51,9 @@ collections:
     output: true
     permalink: /:path.html
 
+disqus:
+  shortname: vanghia # Your discus shortname for comments
+
 defaults:
   -
     scope:
