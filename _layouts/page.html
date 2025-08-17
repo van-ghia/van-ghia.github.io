@@ -63,7 +63,8 @@
         <script type="text/javascript">
             let currentTheme = localStorage.getItem('theme');
         
-            document.body.classList[currentTheme === 'dark' ? 'add' : 'remove']('dark-theme');
+            // document.body.classList[currentTheme === 'dark' ? 'add' : 'remove']('dark-theme');
+            document.body.classList[currentTheme === 'dark' ? 'remove' : 'add' ]('dark-theme');
         </script>
 <!--        <canvas id="stars" width="100%" height="100%"></canvas>-->
         {% include sidebar.html %}

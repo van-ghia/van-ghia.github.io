@@ -15,7 +15,7 @@ svg { fill:#aaa; }
 
 .nav-item span { color:#ccc; }
 
-.nav-lh svg { fill:$color-orange-2; }
+.nav-lh svg { fill:#aaa; }
 
 //.nav-lh {
 //  &:before {
@@ -28,7 +28,7 @@ svg { fill:#aaa; }
 
 .nav-list-expander {
   &:hover { 
-    svg { fill:goldenrod; } 
+    svg { fill:#aaa; }
   }
 }
 
@@ -43,17 +43,17 @@ svg { fill:#aaa; }
     &:hover { background-color:#1E1E1F; }
   }
 
-  svg { fill:$color-aqua; }
+  svg { fill:#aaa; }
 }
 
 #contact{
   ul>li>a {
     &:hover{
-      svg { fill:indianred; }
+      svg { fill: $color-retro-yellow-2; }
     }
   }
 
-  a { color:mediumseagreen; }
+  a { color: $color-retro-yellow-2; }
 }
 
 #post {
@@ -74,7 +74,7 @@ svg { fill:#aaa; }
 
 #related-posts {
   .date{
-    color:$color-light-green;
+    color:#ccc;
   }
 
 }
@@ -85,11 +85,11 @@ main {
   strong { color:lightgrey; }
 
   a { 
-    color:$color-light-green;
+    color:$color-retro-yellow-2;
 
     &::before {
-      color:mediumseagreen;
-      text-decoration-color:mediumseagreen;
+      color:$color-retro-yellow;
+      text-decoration-color:$color-retro-yellow;
     }
   }
 
@@ -122,11 +122,11 @@ main {
   }
 }
 
-#related-box span { color:darkgoldenrod; }
+#related-box span { color: $color-retro-yellow; }
 #related-posts .title { color:#ccc; }
 #related-posts li:hover { box-shadow:8px 8px 16px -4px rgba(255, 255, 255, .2); }
 
-.category-tree a { color:$color-light-green; }
+.category-tree a { color:#aaa; }
 
 .category-header {
   color:$color-light-yellow;
@@ -136,7 +136,7 @@ main {
 
 .pagination-number.active {
   color: black;
-  background:$color-green-2;
+  background:$color-retro-yellow-dark;
 }
 #article_content {
   border-bottom:2px solid #464647;
@@ -146,10 +146,10 @@ main {
   .txt_post { color: #cecbcb; }
   .title_post { color:$color-light-yellow; }
   .title_post:hover {
-    color:$color-light-green;
+    color:$color-retro-yellow;
   }
   .date { color:#ccc; }
-  .category { color:$color-light-green; }
+  .category { color:$color-retro-yellow; }
 }
 
 .pagination-number,
@@ -197,12 +197,12 @@ main {
 
 .toc-header {
   color:$color-light-yellow;
-  border-bottom: $color-light-green 2px solid;
+  border-bottom: $color-retro-yellow 2px solid;
 }
 
 .site-avatar {
   img:hover {
-    outline:4px solid $color-green-2 ;
+    outline:4px solid #aaa;
   }
 }
 
@@ -221,16 +221,16 @@ main {
 .site-tab { box-shadow:none; }
 
 .nav-lh {
-  &:before { background:rgba($color-green-1, .375); }
-  &:hover:before { background:rgba($color-light-green, .375); }
+  &:before { background:rgba($color-light2, .0); }
+  &:hover:before { background:rgba($color-light2, .0); }
 }
 
 .nav-list li > .nav-list { background:none; }
 
 #contact{
-  hr { border-top:1px solid dimgrey; }
+  hr { border-top:1px solid #aaa; }
 
-  h3 { background-color:#1E1E1F; }
+  //h3 { background-color:#aaa; }
 }
 
 #post .inner-content { box-shadow:none; }

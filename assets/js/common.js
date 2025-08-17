@@ -2,20 +2,20 @@ var baseurl = document.querySelector('meta[name="baseurl"]').content;
 
 document.addEventListener('DOMContentLoaded', function(){
     // Init theme
-    let currentTheme = localStorage.getItem('theme');
-    let isDarkMode = false;
+    // let currentTheme = localStorage.getItem('theme');
+    // let isDarkMode = false;
 
-    if (currentTheme === 'dark'){
-        isDarkMode = true;
-        const themeIcons = document.querySelectorAll(".ico-dark, .ico-light");
+    // if (currentTheme === 'dark'){
+    isDarkMode = true;
+    const themeIcons = document.querySelectorAll(".ico-dark, .ico-light");
 
-        themeIcons.forEach((ico) => {
-            ico.classList.add('active');
-        });
-    }
-    else {
-        isDarkMode = false;
-    }
+    themeIcons.forEach((ico) => {
+        ico.classList.add('active');
+    });
+    // }
+    // else {
+    //     isDarkMode = false;
+    // }
 
     // navigation (mobile)
     var siteNav = document.querySelector('#navigation');

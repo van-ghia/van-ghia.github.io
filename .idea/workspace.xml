@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="fix">
+    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-12-07-thu-gi-o-ben-trong-chiec-guong.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2025-12-07-thu-gi-o-ben-trong-chiec-guong.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/darkmode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/darkmode.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/toc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/toc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/post.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,10 +111,10 @@
       <recent name="$PROJECT_DIR$/_pages/Life" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unrelease" />
       <recent name="$PROJECT_DIR$/_pages/Blog/Life" />
       <recent name="$PROJECT_DIR$/_pages/Dummy" />
       <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/unrelease" />
       <recent name="$PROJECT_DIR$/_pages/Blog" />
     </key>
   </component>
@@ -167,7 +179,11 @@
       <workItem from="1751977929998" duration="2559000" />
       <workItem from="1752028743529" duration="6000" />
       <workItem from="1752295049907" duration="2854000" />
-      <workItem from="1752335543406" duration="444000" />
+      <workItem from="1752335543406" duration="1085000" />
+      <workItem from="1752409843176" duration="21000" />
+      <workItem from="1755431204052" duration="973000" />
+      <workItem from="1755432374959" duration="2687000" />
+      <workItem from="1755435822337" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />

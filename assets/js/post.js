@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(){
     var innerContent = document.querySelector('main');
-    let currentTheme = localStorage.getItem('theme');
+    // let currentTheme = localStorage.getItem('theme');
 
     // tocbot
     var headings = innerContent.querySelectorAll('h1, h2');
@@ -120,12 +120,12 @@ document.addEventListener('DOMContentLoaded', function(){
     });
 
     // Code highlighter
-    if (currentTheme === 'dark'){
+    // if (currentTheme === 'dark'){
         // Disable highlighter default color theme
         Array.from(innerContent.querySelectorAll('pre')).forEach(function (codeblock){
             codeblock.classList.add('pre-dark');
         });
-    }
+    // }
 });
 
 window.addEventListener('load', function(){
@@ -166,11 +166,11 @@ window.addEventListener('load', function(){
     const giscus_categoryId = document.querySelector('meta[name="giscus_categoryId"]').content;
 
     if (giscus_repo !== undefined) {
-        let currentTheme = localStorage.getItem('theme');
+        // let currentTheme = localStorage.getItem('theme');
 
-        if (currentTheme === 'dark'){
+        // if (currentTheme === 'dark'){
             giscusTheme = "noborder_gray";
-        }
+        // }
 
         let giscusAttributes = {
             "src": "https://giscus.app/client.js",
