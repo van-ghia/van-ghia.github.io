@@ -6,11 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/darkmode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/darkmode.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icons.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/reghnav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-03-18-taxua-trip-and-an-unexpected-fear.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2024-03-18-taxua-trip-and-an-unexpected-fear.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-07-28-song-voi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2024-07-28-song-voi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-11-23-thailand-trip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2024-11-23-thailand-trip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-27-08-mat-dong-luc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2024-27-08-mat-dong-luc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-10-co-may-thoi-gian.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-10-co-may-thoi-gian.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-12-nam-2024-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-12-nam-2024-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-01-24-con-da-22.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-01-24-con-da-22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-03-06-muc-dich-ton-tai-la-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-03-06-muc-dich-ton-tai-la-gi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Love/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Love/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-02-mo-hinh-phat-trien-p1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-02-mo-hinh-phat-trien-p1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-03-mo-hinh-phat-trien-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-03-mo-hinh-phat-trien-p2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-06-tao-game-sdl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-06-tao-game-sdl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2024-09-15-midnight-sun.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Story/2024-09-15-midnight-sun.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2025-03-07-dua-tre-chua-bao-gio-lon.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Story/2025-03-07-dua-tre-chua-bao-gio-lon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2025-23-05-dinh-vinh-quang-se-chang-co-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/Story/2025-23-05-dinh-vinh-quang-se-chang-co-gi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Dummy/2024-14-11-toi-khong-muon-nhu-vay.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Dummy/2024-14-11-toi-khong-muon-nhu-vay.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Dummy/2025-24-03-nhat-ki-denver.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Dummy/2025-24-03-nhat-ki-denver.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,27 +87,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vanhger/Work/vanhger/van-ghia.github.io",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vanhger/Work/vanhger/van-ghia.github.io&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_pages/Blog/Story" />
@@ -177,7 +191,8 @@
       <workItem from="1755432374959" duration="2687000" />
       <workItem from="1755435822337" duration="1128000" />
       <workItem from="1755478438112" duration="5000" />
-      <workItem from="1755502647728" duration="371000" />
+      <workItem from="1755502647728" duration="503000" />
+      <workItem from="1755503534389" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />

@@ -3,6 +3,7 @@ date: 2025-05-23
 tags:
   - vanghia
 thumbnail: /assets/img/thumbnail/post_36.jpeg
+image: /assets/img/thumbnail/post_36.jpeg
 title: Đỉnh vinh quang sẽ chẳng có gì?
 postnum: 36
 ---

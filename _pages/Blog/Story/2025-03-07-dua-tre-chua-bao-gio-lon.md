@@ -3,6 +3,7 @@ date: 2025-06-15
 tags:
   - vanghia
 thumbnail: /assets/img/thumbnail/post_38.jpg
+image: /assets/img/thumbnail/post_38.jpg
 title: Đứa trẻ chưa bao giờ lớn
 postnum: 38
 ---

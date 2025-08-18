@@ -3,6 +3,7 @@ date: 2025-07-12
 tags:
   - me
 thumbnail: /assets/img/thumbnail/post_40.jpg
+image: /assets/img/thumbnail/post_40.jpg
 title: Thứ gì ở bên trong chiếc gương?
 postnum: 40
 ---

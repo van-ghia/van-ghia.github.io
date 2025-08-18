@@ -3,6 +3,7 @@ date: 2024-10-30
 tags:
   - stories
 thumbnail: /assets/img/thumbnail/post_28.jpg
+image: /assets/img/thumbnail/post_28.jpg
 title: Cỗ máy thời gian
 postnum: 28
 ---

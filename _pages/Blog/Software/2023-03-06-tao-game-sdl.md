@@ -4,6 +4,7 @@ date: "2023-03-06"
 tags:
   - study
 thumbnail: "/assets/img/thumbnail/post_4.jpg"
+image: "/assets/img/thumbnail/post_4.jpg"
 postnum: 4
 ---
 

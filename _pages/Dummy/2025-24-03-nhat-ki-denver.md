@@ -3,6 +3,7 @@ date: 2025-03-24
 tags:
   - dummy
 thumbnail: /assets/img/thumbnail/post_35.jpg
+image: /assets/img/thumbnail/post_35.jpg
 title: Nhật kí tại Denver
 postnum: 35
 ---

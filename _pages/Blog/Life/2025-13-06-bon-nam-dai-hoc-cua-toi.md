@@ -3,6 +3,7 @@ date: 2025-06-13
 tags:
   - university
 thumbnail: /assets/img/thumbnail/post_37.jpg
+image: /assets/img/thumbnail/post_37.jpg
 title: Bốn năm đại học của tôi
 postnum: 37
 ---

@@ -3,6 +3,7 @@ date: 2024-11-16
 tags:
   - life
 thumbnail: /assets/img/thumbnail/post_30.png
+image: /assets/img/thumbnail/post_30.png
 title: 7 tuần ở Thái Lan
 postnum: "30"
 ---

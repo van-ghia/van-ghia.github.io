@@ -3,6 +3,7 @@ date: "2024-06-10"
 tags:
   - stories
 thumbnail: "/assets/img/thumbnail/post_23.jpg"
+image: "/assets/img/thumbnail/post_23.jpg"
 title: Tình yêu và những sự hối tiếc
 postnum: 23
 ---

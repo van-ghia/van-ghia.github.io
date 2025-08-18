@@ -3,6 +3,7 @@ date: 2024-11-14
 tags:
   - dummy
 thumbnail: /assets/img/thumbnail/dummy/post_29.jpg
+image: /assets/img/thumbnail/dummy/post_29.jpg
 title: T deo muốn thế
 postnum: 29
 ---

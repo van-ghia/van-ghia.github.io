@@ -3,6 +3,7 @@ date: 2025-03-06
 tags:
   - life
 thumbnail: /assets/img/thumbnail/post_34.jpg
+image: /assets/img/thumbnail/post_34.jpg
 title: Mục đích tồn tại là gì?
 postnum: "34"
 ---

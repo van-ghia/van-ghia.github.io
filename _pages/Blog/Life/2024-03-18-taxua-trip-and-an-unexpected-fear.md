@@ -4,6 +4,7 @@ date: "2024-03-18"
 tags:
   - trip
 thumbnail: "/assets/img/thumbnail/post_22.jpg"
+image: "/assets/img/thumbnail/post_22.jpg"
 postnum: 22
 ---
 

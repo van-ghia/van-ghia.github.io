@@ -3,6 +3,7 @@ date: 2024-08-28
 tags:
   - life
 thumbnail: /assets/img/thumbnail/post_26.jpg
+image: /assets/img/thumbnail/post_26.jpg
 title: Mất động lực
 postnum: 26
 ---

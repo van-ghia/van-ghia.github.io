@@ -4,6 +4,7 @@ date: "2023-03-03"
 tags:
   - study
 thumbnail: "/assets/img/thumbnail/software_dev.jpg"
+image: "/assets/img/thumbnail/software_dev.jpg"
 postnum: 3
 ---
 
