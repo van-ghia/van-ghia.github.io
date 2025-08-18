@@ -4,4 +4,5 @@ layout: main
 ---
 
 ## About
-Xin chào, mình là Văn Ghia.
+Xin chào, mình là Việt Anh.
+

@@ -18,20 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Reghnav
+title:
 logo_img: "/assets/img/favicon.png"
 profile_img: "/assets/img/j97.png"
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi there !!!
 # baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://van-ghia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Social Links
 email: vietanhpg2003@gmail.com
 github_username: van-ghia
 twitter_username: twitter
-instagram_username: instagram
+instagram_username: reghnav
 linkedin_username: linkedin
 facebook_username: 61556523481829
 
