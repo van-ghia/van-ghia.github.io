@@ -5,8 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_pages/Blog/Life/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-03-18-taxua-trip-and-an-unexpected-fear.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-03-18-taxua-trip-and-an-unexpected-fear.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-07-28-song-voi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-07-28-song-voi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-11-23-thailand-trip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-11-23-thailand-trip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-27-08-mat-dong-luc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-27-08-mat-dong-luc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-10-co-may-thoi-gian.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-30-10-co-may-thoi-gian.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-12-nam-2024-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-30-12-nam-2024-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-01-24-con-da-22.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-01-24-con-da-22.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-03-06-muc-dich-ton-tai-la-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-03-06-muc-dich-ton-tai-la-gi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-13-06-bon-nam-dai-hoc-cua-toi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Love/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Love/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-02-mo-hinh-phat-trien-p1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/2023-03-02-mo-hinh-phat-trien-p1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-03-mo-hinh-phat-trien-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/2023-03-03-mo-hinh-phat-trien-p2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-06-tao-game-sdl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/2023-03-06-tao-game-sdl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2024-09-15-midnight-sun.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-09-15-midnight-sun.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2025-03-07-dua-tre-chua-bao-gio-lon.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-03-07-dua-tre-chua-bao-gio-lon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2025-23-05-dinh-vinh-quang-se-chang-co-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-23-05-dinh-vinh-quang-se-chang-co-gi.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +97,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "git-widget-placeholder": "master",
@@ -178,7 +200,10 @@
       <workItem from="1755560727066" duration="3000" />
       <workItem from="1756551196710" duration="2670000" />
       <workItem from="1756598923498" duration="625000" />
-      <workItem from="1756659564429" duration="1516000" />
+      <workItem from="1756659564429" duration="1716000" />
+      <workItem from="1756697986708" duration="645000" />
+      <workItem from="1756729751254" duration="4000" />
+      <workItem from="1759565478196" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />
