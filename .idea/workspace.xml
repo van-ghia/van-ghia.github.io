@@ -6,28 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-03-18-taxua-trip-and-an-unexpected-fear.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-03-18-taxua-trip-and-an-unexpected-fear.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-07-28-song-voi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-07-28-song-voi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-11-23-thailand-trip.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-11-23-thailand-trip.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-27-08-mat-dong-luc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-27-08-mat-dong-luc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-10-co-may-thoi-gian.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-30-10-co-may-thoi-gian.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2024-30-12-nam-2024-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-30-12-nam-2024-cua-toi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-01-24-con-da-22.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-01-24-con-da-22.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-03-06-muc-dich-ton-tai-la-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-03-06-muc-dich-ton-tai-la-gi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-13-06-bon-nam-dai-hoc-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-13-06-bon-nam-dai-hoc-cua-toi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Life/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Love/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Love/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-02-mo-hinh-phat-trien-p1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/2023-03-02-mo-hinh-phat-trien-p1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-03-mo-hinh-phat-trien-p2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/2023-03-03-mo-hinh-phat-trien-p2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/2023-03-06-tao-game-sdl.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Software/2023-03-06-tao-game-sdl.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Software/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2024-09-15-midnight-sun.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2024-09-15-midnight-sun.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2025-03-07-dua-tre-chua-bao-gio-lon.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-03-07-dua-tre-chua-bao-gio-lon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/2025-23-05-dinh-vinh-quang-se-chang-co-gi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2025-23-05-dinh-vinh-quang-se-chang-co-gi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/Story/index.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +44,12 @@
     <option name="currentCommit" value="1" />
     <option name="onto" value="8894dda9374bf55352a25b095a52cd9fe9561090" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/van-ghia/van-ghia.github.io.git&quot;,
-    &quot;accountId&quot;: &quot;0c172fa0-09ed-48b3-a1b3-45fbbac78790&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/van-ghia/van-ghia.github.io.git",
+    "accountId": "e7663e9d-194b-45b1-9e53-676eb1adc5a5"
   }
-}</component>
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3v1dza3w" />
   </component>
@@ -121,11 +99,11 @@
       <recent name="$PROJECT_DIR$/_pages/Life" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages/Blog" />
+      <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/unrelease" />
       <recent name="$PROJECT_DIR$/_pages/Blog/Life" />
       <recent name="$PROJECT_DIR$/_pages/Dummy" />
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/_pages/Blog" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -203,7 +181,10 @@
       <workItem from="1756659564429" duration="1716000" />
       <workItem from="1756697986708" duration="645000" />
       <workItem from="1756729751254" duration="4000" />
-      <workItem from="1759565478196" duration="301000" />
+      <workItem from="1759565478196" duration="933000" />
+      <workItem from="1759651687834" duration="17000" />
+      <workItem from="1759716117657" duration="6000" />
+      <workItem from="1763731288982" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />
