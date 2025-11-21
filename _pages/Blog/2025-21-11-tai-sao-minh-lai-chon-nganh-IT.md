@@ -55,13 +55,7 @@ Những năm cấp 2, mình chủ yếu học Toán chứ không biết chữ n�
 
 Học chuyên Tin giúp mình có được cơ hội tiếp cận kiến thức một cách bài bản về tư duy và thuật toán và việc giải các bài tin học, khá giống việc giải toán và mật mã, vốn dĩ là những thứ mình rất yêu thích. Không khó để bản thân mình thích nghi và yêu thích môn Tin học ở trường. Thế rồi, dần dần mình được chọn vào đội tuyển năm lớp 12, và đi thi hsgqg. Dù cũng dành rất nhiều thời gian trong 3 năm học để ôn luyện môn tin (và bỏ bê những môn khác ...), mình chỉ đạt giải khuyến khích. Thời gian lúc đó cho đến kì thi đại học còn tầm 4 5 tháng, không kịp để mình có thể ôn khối và thi đại học, nên mình đành lấy giải tin học đó đi xét tuyển, và tất nhiên, mình học ngành IT :vv
 
-Có lẽ nếu không học chuyên Tin mà học chuyên Toán, thì mình vẫn sẽ chọn ngành IT. Nhưng nó khả năng sẽ không xuất phát từ một quá trình tích lũy sự đam mê dài hạn như ở trên, mà bởi vì năm mình thi đại học, mọi mặt báo đều bảo là làm IT vua mọi nghề, giàu lắm, "có ông anh sinh năm 96 Bách khoa...", lương nghìn đô, bla bla..., khiến ngành IT năm đó (và cả những năm sau) đều rất hot.  
-
-<figure class="post-image" style="text-align: center;">
-    <img itemprop="image" src="/assets/img/post_img/post42/dollar.jpeg" />
-</figure>
-
-
+Có lẽ nếu không học chuyên Tin mà học chuyên Toán, thì mình vẫn sẽ chọn ngành IT. Nhưng nó khả năng sẽ không xuất phát từ một quá trình tích lũy sự đam mê dài hạn như ở trên, mà bởi vì năm mình thi đại học, mọi mặt báo đều bảo là làm IT vua mọi nghề, giàu lắm, "có ông anh sinh năm 96 Bách khoa...", lương nghìn đô, bla bla..., khiến ngành IT năm đó (và cả những năm sau) đều rất hot.
 
 ## Thú vui của ngành IT
 
