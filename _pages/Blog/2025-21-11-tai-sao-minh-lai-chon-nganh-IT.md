@@ -67,6 +67,6 @@ Mình cũng muốn thêm thắt chút tản mạn về cái ngành đang theo đ
 
 Một số người bạn của mình cũng làm nhiều ứng dụng hay ho lắm ([Hynduf](github.com/HynDuf) chẳng hạn). nói chung với ngành IT, chỉ cần có ý tưởng và một chút thời gian rảnh là có thể tạo ra một sản phẩm khá hữu dụng rồi. Thi thoảng chán nản trước công việc đang làm, việc làm 1 pet project cũng giúp mình tìm lại một chút đam mê với code ấy ^^.
 
-## Cuối cùng thì
+## Cuối cùng thì   
 
 Cuối cùng thì, mình chọn theo IT có lẽ cũng vì có duyên, hoặc là có một phần đam mê tuổi trẻ. Không biết mình sẽ tiếp tục đam mê được thêm bao lâu trước khi rẽ sang làm cái gì đó bớt mỏi mắt và đau lưng chút ít. Dù sao thì cũng hi vọng bài viết này có thể tương cảm với nhiều người, nhất là những bạn đang hoặc có ý định theo ngành IT này. 
