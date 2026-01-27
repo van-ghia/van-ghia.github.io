@@ -2,6 +2,10 @@
 ---
 $baseurl: "{{ site.baseurl }}";
 
+html {
+  scroll-behavior:smooth;
+}
+
 html, body {
   margin:0;
   padding:0;
@@ -10,6 +14,7 @@ html, body {
 body {
   //background: #dadad9;
   background: #D3D8E0;
+  overflow-x:hidden;
 }
 
 //body {
