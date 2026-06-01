@@ -53,7 +53,7 @@ Mình cũng nghĩ nhiều về cái chết, và cảm thấy thật sự mình c
     <figcaption style="font-size: 0.8rem"></figcaption>
 </figure>
 
-Hôm tảo mộ 25 tháng chạp vừa rồi, mình cùng mẹ đi ngang qua 1 ngôi mộ được xây rất chỉn chu, mẹ bảo mình đó là mộ của bà Cải, lúc trước có ở cạnh nhà mình. Mình vẫn nhớ thời mình còn bé xíu, hay sang bên nhà bà chơi vì bà hay cho mình kẹo. Đợt mình học tiểu học, cứ đến Tết là bà lại sang nhà mình đánh bài tam cúc, và mừng tuổi cho mình rất nhiều. Dù một chút kỉ niệm đó thôi nhưng cũng khiến mình cảm thấy bồi hồi và có chút xúc động khó tả. Nên, đôi khi mình cảm thấy bất lực trước sự phũ phàng của thời gian và sự tất yếu của cái chết, dù biết nó là thứ con người chẳng thể tránh khỏi. Nhưng cái nỗi sợ này nó mang lại chút gì đó cảm giác dễ chịu và bình thản hơn cho mình. 
+Hôm tảo mộ 25 tháng chạp vừa rồi, mình cùng mẹ đi ngang qua 1 ngôi mộ được xây rất chỉn chu, mẹ bảo mình đó là mộ của bà Cải, lúc trước có ở cạnh nhà mình. Mình vẫn nhớ thời mình còn bé xíu, hay sang bên nhà bà chơi vì bà hay cho mình kẹo. Đợt mình học tiểu học, cứ đến Tết là bà lại sang nhà mình đánh bài tam cúc, và mừng tuổi cho mình rất nhiều. Dù một chút kỉ niệm đó thôi nhưng cũng khiến mình cảm thấy bồi hồi và có chút xúc động khó tả. Nên, đôi khi mình cảm thấy bất lực trước sự phũ phàng của thời gian và sự tất yếu của cái chết, dù biết nó là thứ con người chẳng thể tránh khỏi, và đôi khi, việc chấp nhận nó, trái lại, mang đến cho mình chút gì dễ chịu và bình thản...
 
 ## Kết 
 
