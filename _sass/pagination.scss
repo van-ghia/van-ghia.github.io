@@ -10,11 +10,11 @@
     padding:1rem 0 1rem 1.5rem;
     line-height:150%;
     font-weight:bold;
-    color:$color-black-2;
+    color:$color-moon-cream;
   }
 
   a {
-    color: $color-black-2;
+    color: $color-moon-cream;
     text-decoration:none;
   }
 
@@ -29,8 +29,8 @@
 .category-header {
   margin:0 8px 24px 8px;
   font-weight:600;
-  border-bottom:1px solid lightgrey;
-  text-decoration:underline dimgrey;
+  border-bottom:1px solid rgba($color-moon-maroon, 0.6);
+  text-decoration:underline rgba($color-moon-ember, 0.6);
   //text-underline-offset:12px;
   padding-bottom:8px;
   animation:fadeInDown 0.6s ease-out;
@@ -43,7 +43,7 @@
     left:0;
     width:0;
     height:2px;
-    background:linear-gradient(to right, $color-retro-yellow, $color-retro-yellow-dark);
+    background:linear-gradient(to right, $color-moon-ember, $color-moon-rust);
     transition:width 0.5s ease;
   }
 
@@ -70,19 +70,19 @@
 .paginated-item {
   list-style-type:none;
   height:fit-content;
-  background: radial-gradient(#e5ded4, transparent);
+  background: radial-gradient($color-moon-charcoal, transparent);
   animation:fadeInUp 0.6s ease-out both;
   animation-delay:calc(var(--item-index, 0) * 0.1s);
   transition:background 0.3s ease;
 
   &:hover {
-    background: radial-gradient(#e5ded4, rgba(229, 222, 212, 0.5));
+    background: radial-gradient($color-moon-charcoal, rgba($color-moon-maroon, 0.5));
   }
 }
 
 #article_content {
   //border:2px solid black;
-  background: rgba(77, 75, 75, 0.95);
+  background: rgba($color-moon-charcoal, 0.95);
   position:relative;
   animation:fadeInUp 0.6s ease-out both;
   animation-delay:calc(var(--article-index, 0) * 0.1s);
@@ -95,7 +95,7 @@
     left:0;
     right:0;
     bottom:0;
-    background:linear-gradient(135deg, rgba(234, 218, 170, 0.05), rgba(201, 188, 148, 0.05));
+    background:linear-gradient(135deg, rgba($color-moon-ember, 0.05), rgba($color-moon-rust, 0.05));
     opacity:0;
     transition:opacity 0.3s ease;
     pointer-events:none;
@@ -151,15 +151,15 @@
   }
   .title_post:hover,
   .category:hover {
-    color:$color-dark;
+    color:$color-moon-ember;
   }
-  .category{ color: $color-dark; }
+  .category{ color: $color-moon-ember; }
 
   .txt_post {
     display:-webkit-box;
     margin-bottom:12px;
     font-size:0.875rem;
-    color:grey;
+    color:$color-moon-taupe;
     overflow:hidden;
     text-overflow:ellipsis;
     -webkit-line-clamp:2;
@@ -212,14 +212,14 @@
     width:0;
     height:0;
     border-radius:50%;
-    background:rgba(234, 218, 170, 0.3);
+    background:rgba($color-moon-ember, 0.3);
     transform:translate(-50%, -50%);
     transition:width 0.4s ease, height 0.4s ease;
   }
 }
 .pagination-number:hover,
 .pagination-button:not(.disabled):hover {
-  background:#fff;
+  background:$color-moon-maroon;
   transform:scale(1.1) translateY(-2px);
   box-shadow:0 4px 8px rgba(0, 0, 0, 0.15);
 
@@ -229,8 +229,8 @@
   }
 }
 .pagination-number.active {
-  color:#fff;
-  background:$color-black-1;
+  color:$color-moon-black;
+  background:$color-moon-rust;
   animation:pulseActive 2s ease-in-out infinite;
   box-shadow:0 2px 8px rgba(0, 0, 0, 0.2);
 }
@@ -278,7 +278,7 @@
 
   &:hover {
     transform:translate(0px, -6px) scale(1.01);
-    box-shadow:0 20px 50px -10px rgba(10, 16, 34, .3), 0 0 0 1px rgba(234, 218, 170, 0.2);
+    box-shadow:0 20px 50px -10px rgba(10, 16, 34, .3), 0 0 0 1px rgba($color-moon-ember, 0.2);
   }
 
   .thumbnail_post {

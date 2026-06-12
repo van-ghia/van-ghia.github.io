@@ -6,14 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2024-03-18-taxua-trip-and-an-unexpected-fear.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2024-03-18-taxua-trip-and-an-unexpected-fear.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2024-06-10-tinh-yeu-va-su-hoi-tiec.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2024-07-28-song-voi.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2024-07-28-song-voi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2024-30-12-nam-2024-cua-toi.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2024-30-12-nam-2024-cua-toi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2025-03-07-dua-tre-chua-bao-gio-lon.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2025-03-07-dua-tre-chua-bao-gio-lon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2025-08-07-khong-the-song-thieu-anh-hao-quang.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2025-21-11-tai-sao-minh-lai-chon-nganh-IT.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2025-21-11-tai-sao-minh-lai-chon-nganh-IT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2025-30-08-neu-cai-chet-duoc-sap-dat-truoc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/darkmode.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/post.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/search.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/search.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/toc.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/toc.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/house.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/icon/house2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/post.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +37,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="796" />
+    <option name="cachedIndexableFilesCount" value="729" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -104,7 +115,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vanhger/Work/vanhger/van-ghia.github.io&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vanhger/Work/vanhger/van-ghia.github.io/assets/img&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -118,9 +129,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_pages/Blog/Story" />
       <recent name="$PROJECT_DIR$/assets/fonts" />
-      <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/img/thumbnail" />
       <recent name="$PROJECT_DIR$/_pages/Life" />
     </key>
@@ -217,7 +228,13 @@
       <workItem from="1777206153649" duration="3069000" />
       <workItem from="1777250456177" duration="159000" />
       <workItem from="1778033327454" duration="1726000" />
-      <workItem from="1780305360529" duration="1541000" />
+      <workItem from="1780305360529" duration="1963000" />
+      <workItem from="1780801820234" duration="10736000" />
+      <workItem from="1780877287884" duration="56000" />
+      <workItem from="1780963591683" duration="135000" />
+      <workItem from="1781054094149" duration="275000" />
+      <workItem from="1781068093412" duration="601000" />
+      <workItem from="1781140306428" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />

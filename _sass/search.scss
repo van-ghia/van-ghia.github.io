@@ -33,14 +33,14 @@
 
     i {
       margin-right:0.5rem;
-      color:#666;
+      color:$color-moon-taupe;
     }
 
     &::-webkit-scrollbar {
       width:8px;
-      background-color:#ddd;
+      background-color:$color-moon-charcoal;
     }
-    &::-webkit-scrollbar-thumb { background-color:rosybrown; }
+    &::-webkit-scrollbar-thumb { background-color:$color-moon-rust; }
   }
 
 }
@@ -66,7 +66,7 @@
 }
 
 .wave {
-  background:rgba(253, 177, 55, 0.5);
+  background:rgba($color-moon-ember, 0.5);
   border-radius:0 0 250% 250%;
   position:fixed;
   width:200%;
@@ -102,9 +102,9 @@
   margin-top:2rem;
   animation:slideDownFade 0.4s ease-out 0.1s both;
 
-  mark { 
+  mark {
     margin-bottom:1rem;
-    color:#fff !important;
+    color:$color-moon-cream !important;
     opacity:0.8;
     font-size:1.5rem;
     font-weight:200;
@@ -120,13 +120,13 @@
   input {
     font-size:1.25rem;
     padding:8px;
-    border:2px solid #aaa;
+    border:2px solid $color-moon-maroon;
     background:none;
     transition:all 0.3s ease;
 
     &:focus {
-      border-color:$color-retro-yellow;
-      box-shadow:0 0 8px rgba(234, 218, 170, 0.4);
+      border-color:$color-moon-ember;
+      box-shadow:0 0 8px rgba($color-moon-ember, 0.4);
       outline:none;
       transform:scale(1.02);
     }
@@ -171,10 +171,10 @@
     border-radius:50%;
     transform:translateY(50%);
     font-size:14px;
-    background: $color-black-1 !important;
+    background: $color-moon-maroon !important;
 
-    svg { 
-      fill:#fff !important;
+    svg {
+      fill:$color-moon-cream !important;
       width:14px;
     }
   }
@@ -199,7 +199,7 @@
     left:-100%;
     width:100%;
     height:100%;
-    background:linear-gradient(90deg, transparent, rgba(234, 218, 170, 0.3), transparent);
+    background:linear-gradient(90deg, transparent, rgba($color-moon-ember, 0.3), transparent);
     transition:left 0.5s ease;
   }
 
@@ -222,7 +222,7 @@
     td { font-size:0.875rem; }
 
     svg {
-      background-color:$color-black-1;
+      background-color:$color-moon-cream;
       mask-repeat:no-repeat;
       display:inline-flex;
       width:14px;
@@ -230,7 +230,7 @@
       transform:translateY(2px);
     }
     .ico-book {
-      background-color:$color-black-1 !important;
+      background-color:$color-moon-cream !important;
       -webkit-mask-image:url($baseurl + '/assets/img/icon/book-solid.svg');
       mask-image:url($baseurl + '/assets/img/icon/book-solid.svg');
     }
@@ -247,12 +247,12 @@
       mask-image:url($baseurl + '/assets/img/icon/calendar-days-regular.svg');
     }
     .ico-book, th .ico-folder { width:18px; }
-    th .ico-folder { background-color:$color-black-1 !important; }
+    th .ico-folder { background-color:$color-moon-cream !important; }
   }
 
   .highlight {
     font-weight:900;
-    color:$color-orange-1 !important;
+    color:$color-moon-ember !important;
   }
 }
 

@@ -15,31 +15,20 @@
 .side-banner {
   width:100%;
   text-align:center;
-  box-shadow:0px 4px 8px 0 #aaa;
+  box-shadow:0px 4px 8px 0 rgba($color-moon-black, 0.6);
 
   button {
     position:absolute;
-    //background-color:$color-beige;
     height:100%;
     aspect-ratio:1;
     top:0;
 
     svg { width:20px; }
 
-    &:hover { background-color: rgba(191, 210, 212, 0.7); }
+    &:hover { background-color: rgba($color-moon-maroon, 0.5); }
   }
   #btn-nav { right:0; }
   #btn-search { right:38px; }
-  #btn-brightness { right:76px; }
-
-  .ico-dark {
-    display:block;
-    &.active{ display:none; }
-  }
-  .ico-light {
-    display:none;
-    &.active{ display:block; }
-  }
 }
 
 .site-tab img { display: none; }
@@ -50,16 +39,16 @@
     width:9rem;
     aspect-ratio:1;
     border-radius:50%;
-    border: 0.1rem solid black;
+    border: 0.1rem solid $color-moon-maroon;
     padding: 0.1rem;
-    outline:4.5rem solid rgba(64, 64, 64, 0);
+    outline:4.5rem solid rgba($color-moon-charcoal, 0);
     outline-offset:-4.5rem;
     transition:all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     animation:avatarFloat 3s ease-in-out infinite;
     filter:drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));
 
     &:hover {
-      outline:4px solid $color-white-1;
+      outline:4px solid $color-moon-ember;
       outline-offset:8px;
       transform:scale(1.05) rotate(5deg);
       filter:drop-shadow(0 8px 16px rgba(0, 0, 0, 0.3));
@@ -109,7 +98,7 @@
 
   h3 {
     display:none;
-    color: $color-black-1;
+    color: $color-moon-cream;
   }
 
   ul{
@@ -148,16 +137,15 @@
 
         svg {
           width:16px;
-          fill: $color-black-1;
+          fill: $color-moon-cream;
           position:relative;
           z-index:1;
           transition:fill 0.3s ease, transform 0.3s ease;
         }
 
         &:hover{
-          svg { 
-            // fill: $color-darkbrown;
-            fill: $color-black-2;
+          svg {
+            fill: $color-moon-ember;
             transform:rotate(15deg) scale(1.1);
           }
 
@@ -184,7 +172,7 @@
 }
 
   span { font-size:0.875rem; }
-  a { color:$color-black-1; }
+  a { color:$color-moon-ember; }
 }
 
 .sidebar-right{ display:none; }
@@ -198,7 +186,7 @@
     width:2.75rem;
     aspect-ratio:1;
     text-align:center;
-    background:$color-black-1;
+    background:$color-moon-charcoal;
     border:none;
     border-radius:50%;
     margin-left:1rem;
@@ -216,13 +204,13 @@
       width:0;
       height:0;
       border-radius:50%;
-      background:rgba(234, 218, 170, 0.3);
+      background:rgba($color-moon-ember, 0.3);
       transform:translate(-50%, -50%);
       transition:width 0.4s ease, height 0.4s ease;
     }
 
     &:hover {
-      border:2px solid $color-black-2;
+      border:2px solid $color-moon-ember;
       animation:leaves .75s ease-in-out infinite alternate;
       box-shadow:0 4px 12px rgba(0, 0, 0, 0.3);
     }
@@ -236,11 +224,11 @@
   @keyframes leaves {
     0% {
       transform:scale(1.0);
-      background:$color-black-1;
+      background:$color-moon-charcoal;
     }
     100% {
       transform:scale(1.25);
-      background:$color-black-1;
+      background:$color-moon-maroon;
     }
   }
 
@@ -257,24 +245,10 @@
 }
 
   svg {
-    fill:#C49A6C !important;
+    fill:$color-moon-cream !important;
     width:24px;
     position:relative;
     transition:all .3s;
-  }
-  .ico-dark, .ico-light {
-    position:absolute;
-    top:50%;
-    left:50%;
-    transform:translate(-50%, -50%);
-  }
-  .ico-dark {
-    transform:translate(-50%, -50%) scale(1);
-    &.active{ transform:translate(-50%, -50%) scale(0); }
-  }
-  .ico-light {
-    transform:translate(-50%, -50%) scale(0);
-    &.active{ transform:translate(-50%, -50%) scale(1); }
   }
 
 
@@ -283,7 +257,6 @@
 .side-banner {
   button { font-size:1.75rem; }
   #btn-search { right:60px; }
-  #btn-brightness { right:120px; }
 }
 
 .site-tab { 
@@ -320,7 +293,6 @@
     font-size:1.5rem;
   }
   #btn-search { right:69px; }
-  #btn-brightness { right:138px; }
 }
 
 .site-avatar img { display:inline-block; }
@@ -336,8 +308,8 @@
   position:relative;
 
   img, mark { transition:.5s ease; }
-  mark { 
-    color:$color-black-1;
+  mark {
+    color:$color-moon-cream;
     word-break:break-word;
   }
 
@@ -353,8 +325,8 @@
   //}
 
   &:hover {
-    mark { 
-      color:$color-black-2;
+    mark {
+      color:$color-moon-ember;
       // text-shadow:2px 2px 4px rgba(0, 0, 0, 0.1);
       //margin-left:40px;
     }
@@ -379,8 +351,8 @@
   padding:1rem 2rem;
   transform:none;
 
-  hr { 
-    border-top:1px solid rgba(155, 153, 153, 0.7);
+  hr {
+    border-top:1px solid rgba($color-moon-taupe, 0.4);
     margin:9px;
   }
 
