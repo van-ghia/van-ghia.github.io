@@ -3,20 +3,7 @@
 
 body {
   margin:0;
-  background:
-    repeating-linear-gradient(
-    to right, transparent, 
-    transparent 100px, 
-    white 100px, 
-    white 112px
-    ),
-    repeating-linear-gradient(
-    to bottom, transparent, 
-    transparent 100px, 
-    white 100px, 
-    white 112px
-    ),
-    linear-gradient(45deg, pink, skyblue);
+  background:#f2ece0;
 }
 
 .blank-page {

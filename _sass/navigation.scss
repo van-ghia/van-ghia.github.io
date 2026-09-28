@@ -5,7 +5,7 @@
 
   &.nav-open {
     display:block;
-    border-top:1px solid $color-moon-maroon;
+    border-top:1px solid dimgrey;
   }
 }
 
@@ -18,7 +18,7 @@
 
     > .nav-list {
       padding-left:18px;
-      background:$color-moon-charcoal;
+      background:#eee;
 
       transition:max-height .5s ease-in-out, opacity .3s;
       opacity:0;
@@ -47,74 +47,24 @@
 .nav-item {
   position:relative;
   padding:12px;
-  border-bottom:1px solid rgba($color-moon-maroon, 0.6);
-  animation:fadeInLeft 0.5s ease-out both;
-  animation-delay:calc(var(--nav-index, 0) * 0.05s);
-  transition:background-color 0.3s ease, transform 0.2s ease;
-
-  // &:hover {
-  //   background-color:rgba(238, 231, 221, 0.5);
-  //   transform:translateX(4px);
-  // }
+  border-bottom:1px solid #aaa;
 
   &.selected {
     span {
       font-weight:600;
       text-decoration:underline;
-      // color:$color-darkbrown;
     }
   }
 
-  a { 
-    font-weight:400;
-    transition:color 0.3s ease;
-  }
+  a { font-weight:400; }
 }
-.nav-item span {
-  transition:color 0.3s ease, font-weight 0.3s ease;
-}
-
-@keyframes fadeInLeft {
-  0% {
-    opacity:0;
-    transform:translateX(-15px);
-  }
-  100% {
-    opacity:1;
-    transform:translateX(0);
-  }
-}
+.nav-item span { color:$color-black-2; }
 
 .nav-list-link {
   position:relative;
-  transition:all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  overflow:hidden;
+  transition:.2s ease;
 
-  &::before {
-    content:"";
-    position:absolute;
-    left:0;
-    top:0;
-    bottom:0;
-    width:0;
-    background:linear-gradient(to right, rgba($color-moon-ember, 0.3), transparent);
-    transition:width 0.3s ease;
-    z-index:0;
-  }
-
-  span { 
-    position:relative;
-    z-index:1;
-    transition:color 0.3s ease;
-  }
-
-  &:hover::before {
-    width:100%;
-  }
-
-  // &:hover span {
-  //   color:$color-darkbrown;
-  // }
+  span { position:relative; }
 }
 
 .nav-list-expander {
@@ -127,21 +77,21 @@
 
   &, svg { transition:.3s; }
   svg {
-    fill: $color-moon-taupe;
+    fill: $color-black-2;
     width:18px;
     margin-right: 0.9rem;
   }
 
   &:hover {
     transform:scale(1.25);
-    svg { fill:$color-moon-cream; }
+    svg { fill:$color-black-1; }
   }
 }
 
 .nav-lh svg {
   margin-left:0.5rem;
   position:relative;
-  fill:$color-moon-cream;
+  fill:$color-black-1;
   transform:translateY(-2px);
 }
 .nav-sh svg { 
@@ -175,9 +125,9 @@
 
   &::-webkit-scrollbar {
     width:4px;
-    background-color:$color-moon-charcoal;
+    background-color:#aaa;
   }
-  &::-webkit-scrollbar-thumb { background-color:$color-moon-maroon; }
+  &::-webkit-scrollbar-thumb { background-color:#a89c88; }
 }
 
 .nav-item { border:none; }
@@ -188,37 +138,15 @@
   display:flex;
   width:95%;
   align-items:center;
-  border: 0.1rem solid rgba($color-moon-maroon, 0.6);
+  border: 1px solid #e3dbc8;
   border-radius: 0.4rem;
-  position:relative;
-  overflow:hidden;
-
-  &::after {
-    content:"";
-    position:absolute;
-    top:50%;
-    left:50%;
-    width:0;
-    height:0;
-    border-radius:50%;
-    transform:translate(-50%, -50%);
-    transition:width 0.4s ease, height 0.4s ease;
-  }
-
   &:hover {
     span {
       font-weight:600;
       text-decoration:underline;
     }
 
-    transform:scale(.95);
-    border-color:rgba($color-moon-ember, 0.5);
-    box-shadow:0 2px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  &:hover::after {
-    width:200%;
-    height:200%;
+    transform:scale(.9);
   }
 }
 
@@ -230,26 +158,18 @@
     left:0;
     border-radius:1.5rem;
 
+    //background:rgba($color-darkblue-2, .375);
+    //background:rgba($color-beige, .5);
     width:2.3rem;
     height:2.3rem;
-    transition:all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    background:linear-gradient(135deg, rgba($color-moon-ember, 0.3), rgba($color-moon-rust, 0.3));
-    opacity:0;
+    transition:.3s;
   }
   &:hover:before {
     width:105%;
-    opacity:1;
-    background:rgba($color-moon-ember, .35);
+    //background:rgba($color-beige, .75);
   }
 
-  svg {
-    transform:none;
-    transition:transform 0.3s ease, fill 0.3s ease;
-  }
-
-  &:hover svg {
-    transform:translateX(2px);
-  }
+  svg { transform:none; }
 }
 
 .nav-list-expander {

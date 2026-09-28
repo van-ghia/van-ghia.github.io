@@ -1,59 +1,30 @@
-// Palette sampled from assets/img/sky2.jpeg
-// Dark end kept blue-dominant so #59687f reads as warm/light, mirroring the image's contrast
-$color-moon-black: #07080d;
-$color-moon-charcoal: #0f1826;
-$color-moon-maroon: #1a2e48;
-$color-moon-rust: #2c4a68;
-$color-moon-ember: #59687f;
-$color-moon-cream: #c0cdd8;
-$color-moon-taupe: #7a8fa0;
+$color-beige: #f2ece0;
+$color-darkbrown: #362f27;
+$color-darkorange: #6b6156;
+$color-rose: #6b6156;
+$color-retro-yellow-2: #8fb2dd;
+$color-aqua: #a89c88;
+$color-green-1: #6b6156;
+$color-brown-lloyd: #2c5282;
 
-$color-wenge: #66545E;
-$color-beige: #F1EBE5;
-$color-darkbrown: #C49A6C;
-$color-darkorange: #B04008;
-$color-rose: #fa4251;
-$color-retro-red: #c35356;
-$color-retro-yellow: #eadaaa;
-$color-retro-yellow-dark: #bdb08d;
-$color-retro-yellow-2: #d8cda1;
-$color-light2: #eee7dd;
-$color-aqua: #af9e89;
-$color-aqua-2: rgb(213, 198, 156);
-$color-darkblue: #005C78;
-$color-lightblue: #a7aeb6;
-$color-darkblue-2: #647b83;
-$color-green-1: #708871;
-$color-avatar: #95b88d;
-$color-green-lloyd: #089000;
-$color-darkgreen-lloyd:  	#0a5d00;
-$color-darkgreen-lloyd-2: #385938;
-$color-gold-lloyd: #ead61c;
-$color-yellow-ninja: #fbeba4;
-$color-yellow-background: #dfd9c2;
-$color-brown-lloyd: #603101;
+$color-orange-2: #a89c88;
+$color-dark-brown: #2a251e;
+$color-dark-bgr: #211d17;
+$color-light-green: #8fb2dd;
+$color-green-2: #6b6156;
+$color-light-yellow: #e8e0d0;
 
-$color-orange-2: #d78145;
-$color-dark-brown: #948979;
-$color-dark-bgr: #55524d;
-$color-light-green: #c6dcc3;
-$color-green-2: #96a895;
-$color-light-yellow: #c6c1b3;
+$color-white-1: #faf7f0;
+$color-black-1: #362f27;
+$color-black-2: #6b6156;
+$color-navi-1: #2c5282;
+$color-orange-1: #2c5282;
 
-$color-white-1: #EFEEEA;
-$color-black-1: #000000;
-$color-black-2: #4d4d4d;
-$color-navi-1: #195176;
-$color-orange-1: #d78145;
-
-$color-light: #D3D8E0;
-$color-dark: #363F4E;
-$color-light-white: #dde2e2;
-
-
+$font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$font-serif: "Literata", "Noto Serif", Georgia, "Times New Roman", serif;
 
 $sidebarwd: 18rem;
-$contentwd: 54rem;
+$contentwd: 62rem;
 
 $mediawd: (
   mobile: 320px,

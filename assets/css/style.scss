@@ -2,9 +2,7 @@
 ---
 $baseurl: "{{ site.baseurl }}";
 
-html {
-  scroll-behavior:smooth;
-}
+@import 'vars';
 
 html, body {
   margin:0;
@@ -12,26 +10,27 @@ html, body {
 }
 
 body {
-  overflow-x:hidden;
-}
-
-.fonts-loaded {
-  a, span, p, ul, li { font-family:"Nunito Sans", 'Lucida Sans', sans-serif; }
-  h1, h2, h3, h4 { font-family:"Nunito Sans", 'Lucida Sans', sans-serif; }
-  mark { font-family:"Nunito Sans", 'Lucida Sans', sans-serif;  }
+  background: #f2ece0;
 }
 
 a { text-decoration:none; }
-a, span, p { font-family:'Lucida Sans', sans-serif; }
-h1, h2, h3, h4, mark {
+a, span, p, h1, h2, h3, h4, i { color:#362f27; }
+a, span, p, ul, li { font-family:$font-sans; }
+h1, h2, h3, h4 {
   margin:0;
-  font-family:Helvetica, sans-serif;
+  font-family:$font-sans;
 }
-mark { background-color:transparent; }
+mark {
+  margin:0;
+  font-family:$font-serif;
+  font-weight:700;
+  background-color:transparent;
+}
 
 svg {
   width:16px;
   aspect-ratio:1.0;
+  fill:#362f27;
   display:block;
   margin:auto;
 }
@@ -56,7 +55,6 @@ input::-webkit-search-results-decoration{
 	display:none;
 }
 
-@import 'vars';
 @import 'layout';
 
 :root{
@@ -69,4 +67,4 @@ input::-webkit-search-results-decoration{
 @import "toc";
 @import "post";
 @import "search";
-@import "theme";
+@import "darkmode";

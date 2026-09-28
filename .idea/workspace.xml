@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/vars.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unrelease/2026-11-05-su-thu-ghet-khoi-dau-tu-that-vong.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2026-11-05-su-thu-ghet-khoi-dau-tu-that-vong.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="4196" />
+    <option name="cachedIndexableFilesCount" value="818" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,7 +97,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/vanhger/Work/vanhger/van-ghia.github.io/assets/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vanhger/Work/zkvm-brainfuck&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -221,7 +219,11 @@
       <workItem from="1781140306428" duration="600000" />
       <workItem from="1781251420925" duration="1120000" />
       <workItem from="1781946428710" duration="2629000" />
-      <workItem from="1781962260607" duration="2378000" />
+      <workItem from="1781962260607" duration="3081000" />
+      <workItem from="1782096288160" duration="35000" />
+      <workItem from="1786672015108" duration="498000" />
+      <workItem from="1786755756765" duration="178000" />
+      <workItem from="1786843237636" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />

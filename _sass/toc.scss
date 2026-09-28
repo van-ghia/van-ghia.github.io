@@ -2,18 +2,6 @@
   position:fixed;
   top:6rem;
   display: none;
-  animation:fadeInRight 0.6s ease-out;
-}
-
-@keyframes fadeInRight {
-  0% {
-    opacity:0;
-    transform:translateX(20px);
-  }
-  100% {
-    opacity:1;
-    transform:translateX(0);
-  }
 }
 
 .toc-header {
@@ -22,39 +10,11 @@
   padding:0 0 4px 12px;
   border-bottom:$color-black-2 2px solid;
   color:$color-black-1;
-  position:relative;
-  transition:color 0.3s ease;
-
-  &::after {
-    content:"";
-    position:absolute;
-    bottom:0;
-    left:0;
-    width:0;
-    height:2px;
-    background:linear-gradient(to right, $color-moon-ember, $color-moon-rust);
-    transition:width 0.5s ease;
-  }
-
-  &:hover::after {
-    width:100%;
-  }
-
-  // &:hover {
-  //   color:$color-darkbrown;
-  // }
-
   svg {
     width:16px;
     display:inline-flex;
     transform:translateY(2px);
-    fill: $color-moon-cream;
-    transition:fill 0.3s ease, transform 0.3s ease;
-  }
-
-  &:hover svg {
-    fill:$color-moon-ember;
-    transform:translateY(2px) rotate(5deg);
+    fill: $color-black-1;
   }
 }
 
@@ -81,64 +41,21 @@
   .toc-list-item {
     word-break:normal;
     line-height:150%;
-    position:relative;
-    transition:transform 0.2s ease;
-
-    &:hover {
-      transform:translateX(4px);
-    }
-
     a {
       animation:.5s ease-out 0s 1 slide;
       cursor: pointer;
-      color: $color-moon-taupe;
-      transition:color 0.3s ease, transform 0.2s ease;
-      display:inline-block;
-      position:relative;
-
-      &::before {
-        content:"";
-        position:absolute;
-        left:-8px;
-        top:50%;
-        width:4px;
-        height:0;
-        background:$color-moon-ember;
-        transform:translateY(-50%);
-        transition:height 0.3s ease;
-        border-radius:2px;
-      }
-
-      &:hover {
-        color:$color-moon-cream;
-      }
-
-      &:hover::before {
-        height:60%;
-      }
+      color: $color-brown-lloyd;
     }
 
     @keyframes slide {
-      0% { 
-        transform:scaleY(0);
-        opacity:0;
-      }
-      100% { 
-        transform:scaleY(1);
-        opacity:1;
-      }
+      0% { transform:scaleY(0); }
+      100% { transform:scaleY(1); }
     }
   }
    
   .is-active-link{
-    color:$color-moon-ember !important;
+    color:$color-black-1 !important;
     font-weight:950;
-    position:relative;
-
-    &::before {
-      height:80% !important;
-      background:$color-moon-ember !important;
-    }
   }
 }
 
