@@ -576,8 +576,8 @@ main {
 
 @include mq(wide){
 
-#post { margin-left:calc((100vw - #{$contentwd})/2); }
+#post { margin-left:max(#{$sidebarwd}, (100vw - #{$contentwd})/2); }
 
-.top-arrow { left:calc(50vw + #{$contentwd}/2 - 4rem); }
+.top-arrow { left:calc(max(#{$sidebarwd}, (100vw - #{$contentwd})/2) + #{$contentwd} - 4rem); }
 
 }

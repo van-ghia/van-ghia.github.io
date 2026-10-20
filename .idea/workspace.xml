@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="" />
+    <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unrelease/2026-20-06-lan-cuoi-cung-tam-mua-la-khi-nao.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Blog/2026-20-06-lan-cuoi-cung-tam-mua-la-khi-nao.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="819" />
+    <option name="cachedIndexableFilesCount" value="756" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,12 +53,12 @@
     <option name="currentCommit" value="1" />
     <option name="onto" value="8894dda9374bf55352a25b095a52cd9fe9561090" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/van-ghia/van-ghia.github.io.git",
-    "accountId": "61481c25-33b1-4b1a-89a8-b7a693640f07"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/van-ghia/van-ghia.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;61481c25-33b1-4b1a-89a8-b7a693640f07&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3v1dza3w" />
   </component>
@@ -94,7 +97,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/vanhger/Work/vanhger/van-ghia.github.io/_pages/Blog",
+    "last_opened_file_path": "/home/vanhger/Work/vanhger/van-ghia.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,8 +118,8 @@
       <recent name="$PROJECT_DIR$/assets/img/thumbnail" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/unrelease" />
       <recent name="$PROJECT_DIR$/_pages/Blog" />
+      <recent name="$PROJECT_DIR$/unrelease" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/_pages/Blog/Life" />
       <recent name="$PROJECT_DIR$/_pages/Dummy" />
@@ -222,6 +225,7 @@
       <workItem from="1786755756765" duration="178000" />
       <workItem from="1786843237636" duration="619000" />
       <workItem from="1790568807432" duration="1151000" />
+      <workItem from="1790569998959" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />
