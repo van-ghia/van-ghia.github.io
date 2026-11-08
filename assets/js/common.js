@@ -317,14 +317,14 @@ function searchRelated(pages){
             'category': category,
             'url': page.url,
             'thumbnail': page.image,
-            'score': correlationScore
+            'score': correlationScore,
+            'time': page.time || 0
         });
     }
 
+    // Higher correlation first; on ties, newest post first
     relatedPosts.sort(function (a, b) {
-        if(a.hasOwnProperty('score')){
-            return b.score - a.score;
-        }
+        return (b.score - a.score) || (b.time - a.time);
     });
 
     if (relatedPosts.length == 0){

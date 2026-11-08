@@ -42,7 +42,8 @@
             'tags'     : "{{ page.tags | join: ', ' }}",
             'url'      : "{{ page.url | prepend: site.baseurl }}",
             'image'    : "{{ thumbnail_url }}",
-            'date'     : "{{ page.date | date: '%Y-%m-%d' }}"
+            'date'     : "{{ page.date | date: '%Y-%m-%d' }}",
+            'time'     : Number("{{ page.date | date: '%s' }}") || 0
         });
     {% endfor %}
 

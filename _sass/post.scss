@@ -9,7 +9,9 @@
   img {
     display:block;
     text-align:center;
-    width:100%;
+    width:auto;
+    max-width:100%;
+    max-height:min(75vh, 680px);
     margin:auto;
   }
   .img-xs { width:12.5% !important; }
