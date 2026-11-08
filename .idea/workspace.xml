@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92304351-4b8c-4b73-b28b-86dfe02d4c62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_pages/Blog/2026-08-11-lac-loi-giua-vu-tru-ti-hon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/Blog/2026-08-11-nhung-cach-minh-dang-thu-de-tranh-brainrot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/Blog/2026-08-11-qua-nhieu-phien-ban-minh-muon-tro-thanh.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/search_event.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/search_event.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2026-09-05-are-u-sad-today.md" beforeDir="false" afterPath="$PROJECT_DIR$/unrelease/2026-09-05-are-u-sad-today.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/Blog/2026-28-09-lac-loi-giua-vu-tru-ti-hon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/common.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +227,7 @@
       <workItem from="1790569998959" duration="41000" />
       <workItem from="1792459490151" duration="1093000" />
       <workItem from="1794066388516" duration="2440000" />
-      <workItem from="1794101925897" duration="11580000" />
+      <workItem from="1794101925897" duration="12882000" />
     </task>
     <task id="LOCAL-00001" summary="feat: new post">
       <option name="closed" value="true" />
